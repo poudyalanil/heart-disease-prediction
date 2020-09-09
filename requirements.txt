@@ -1,0 +1,25 @@
+astroid==2.4.2
+certifi==2020.6.20
+colorama==0.4.3
+cycler==0.10.0
+isort==4.3.21
+kiwisolver==1.2.0
+lazy-object-proxy==1.4.3
+matplotlib==3.3.1
+mccabe==0.6.1
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1596215850360/work
+pandas @ file:///C:/ci/pandas_1598371563714/work
+Pillow==7.2.0
+pylint==2.5.3
+pyparsing==2.4.7
+Pyrebase==3.0.27
+python-dateutil==2.8.1
+pytz==2020.1
+requests-toolbelt==0.7.0
+six==1.15.0
+toml==0.10.1
+wincertstore==0.2
+wrapt==1.12.1
