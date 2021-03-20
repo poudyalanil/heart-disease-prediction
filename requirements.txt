@@ -32,7 +32,7 @@ ipython @ file:///C:/ci/ipython_1598865816163/work
 ipython-genutils==0.2.0
 isort==4.3.21
 jedi @ file:///C:/ci/jedi_1592833825077/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.16.0
 jsonschema==3.2.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
