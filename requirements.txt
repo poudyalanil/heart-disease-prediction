@@ -79,7 +79,7 @@ python-dateutil==2.8.1
 python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
 python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
 pytz==2020.1
-pywin32==227
+pywin32==301
 pywin32-ctypes==0.2.0
 PyYAML==5.3.1
 pyzmq==19.0.1
